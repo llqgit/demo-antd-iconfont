@@ -1,0 +1,29 @@
+ /*
+  说明：
+  1. 本文件中的 "anticon-user" 是由 iconfont.cn 生成，并存在于本目录下所有字体文件中，所以一定要提前定义好
+  2. "anticon-user" 字体名称，可以自定义，比如 "my-font-blabla"，只要全文一致即可。如果想修改，最好在 iconfont.cn 生成时改好，否则修改麻烦
+ */
+
+@font-face {font-family: "anticon-user";
+  src: url('iconfont.eot?t=1513048717458'); /* IE9*/
+  src: url('iconfont.eot?t=1513048717458#iefix') format('embedded-opentype'), /* IE6-IE8 */
+  url('data:application/x-font-woff;charset=utf-8;base64,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') format('woff'),
+  url('iconfont.ttf?t=1513048717458') format('truetype'), /* chrome, firefox, opera, Safari, Android, iOS 4.2+*/
+  url('iconfont.svg?t=1513048717458#anticon-user') format('svg'); /* iOS 4.1- */
+}
+
+.anticon-user {
+  font-family:"anticon-user" !important;
+  font-size:16px;
+  font-style:normal;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+/* content 内容，是字体的 unicode 值，注意不要和 ant 内置的字体 unicode 冲突 */
+/* ant.design 默认字体下载地址：https://ant.design/docs/resource/download-cn ，unicode同样定义在 iconfont.css 文件中 */
+.anticon-bad-android:before { content: "\e501"; }
+
+.anticon-bad-apple:before { content: "\e500"; }
+
+.anticon-bad-windows:before { content: "\e502"; }
